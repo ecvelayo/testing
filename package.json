@@ -1,0 +1,19 @@
+{
+  "name": "exercise1",
+  "version": "1.0.0",
+  "description": "First NodeJS Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "exercise",
+    "beginner-friendly"
+  ],
+  "author": "Ean Jason Velayo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
